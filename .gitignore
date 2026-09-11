@@ -1,0 +1,21 @@
+# Java / Gradle
+.gradle/
+**/build/
+
+# Node / React
+node_modules/
+**/node_modules/
+dist/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
